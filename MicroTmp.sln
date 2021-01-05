@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{223E2D5C-BE8B-4B1E-A9AF-74D4C4DB2171}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityService", "src\IdentityService\IdentityService\IdentityService.csproj", "{CA012022-4F2F-4A67-8D2E-6C928993BA3F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer", "IdentityServer\IdentityServer.csproj", "{AB81B620-2F45-42B2-9E71-EEFA7D3FCA2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CA012022-4F2F-4A67-8D2E-6C928993BA3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CA012022-4F2F-4A67-8D2E-6C928993BA3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CA012022-4F2F-4A67-8D2E-6C928993BA3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CA012022-4F2F-4A67-8D2E-6C928993BA3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB81B620-2F45-42B2-9E71-EEFA7D3FCA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB81B620-2F45-42B2-9E71-EEFA7D3FCA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB81B620-2F45-42B2-9E71-EEFA7D3FCA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB81B620-2F45-42B2-9E71-EEFA7D3FCA2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{CA012022-4F2F-4A67-8D2E-6C928993BA3F} = {223E2D5C-BE8B-4B1E-A9AF-74D4C4DB2171}
+		{AB81B620-2F45-42B2-9E71-EEFA7D3FCA2D} = {223E2D5C-BE8B-4B1E-A9AF-74D4C4DB2171}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {727906FC-D441-4DA6-B1C5-3225FBB710A1}

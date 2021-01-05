@@ -53,3 +53,5 @@ dkms.conf
 .vs/
 src/IdentityService/IdentityService/obj/
 src/IdentityService/IdentityService/bin/
+IdentityServer/bin/
+IdentityServer/obj/
