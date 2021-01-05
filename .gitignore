@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+.vs/
+src/IdentityService/IdentityService/obj/
+src/IdentityService/IdentityService/bin/
